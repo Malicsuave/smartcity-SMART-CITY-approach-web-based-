@@ -1,0 +1,47 @@
+/* Custom styles for authentication pages */
+body.auth-page {
+    background-color: #f8f9fa;
+    font-family: 'Nunito', sans-serif;
+}
+
+.auth-card {
+    max-width: 400px;
+    margin: 2rem auto;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+
+.auth-header {
+    padding: 1.5rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.auth-body {
+    padding: 1.5rem;
+}
+
+.auth-footer {
+    padding: 1rem 1.5rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.03);
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.form-label {
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.auth-btn {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-weight: 600;
+}
+
+/* You can add more custom styles for your authentication pages here */
